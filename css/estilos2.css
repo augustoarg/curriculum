@@ -1,0 +1,81 @@
+.contenedor {
+	width: 100%;
+	margin: 0px;
+
+}
+
+.portada {
+	width: 100%;
+}
+
+.imagen {
+	min-height: 700px;
+	background-image: url(../imagenes/imagen2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.barranav {
+	min-height: 50px;
+	background-color: #F5ECCE;
+	margin-right: 0px 30px 0px 30px;
+
+}
+
+.cuerpo {
+
+}
+
+.foto {
+	background-image: url(../imagenes/fotopersonal.jpg);
+	width: 200px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+li {
+	display: inline;
+	padding: 0 20px 0 20px;
+	font-size: 20px;
+
+}
+
+ul{
+	width: 80%;
+	margin-top: 0px;
+	text-align: center;
+	padding-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.presentacion {
+	width: 50%;
+	height: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10%;
+
+
+}
+
+.nombre h1 {
+	margin: 0px 30px 0px 30px;
+	font-size: 75px;
+	color: #24282b;
+}
+.nombre {
+	width: 1000px;
+}
+
+.info {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
